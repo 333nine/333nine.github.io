@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What are my goals?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Yitzac Gastelum. I'm currently working on a few cybersecurity-related projects and plan to post my progress here along the way. Some of these include:  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Raspberry pi-hole
+- Setting up an SIEM and performing red team attacks on it while also defending
+- Etc
 
-What else do you need?
+More to come along the way...
 
-### My story
+### My background
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Studying Computer Information Systems with a focus on cybersecurity at Cal Poly Pomona. My interest in cybersecurity was heavily influenced by software development, such as creating bots. Creating bots and configuring them to do specific tasks involving networking and other niche stuff caught my interest. 
